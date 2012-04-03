@@ -1,0 +1,1336 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<ListResultResponse xmlns="http://openapi.bol.com/openapi-3.0.0">
+  <SessionId>800858D7-61A8-40DD-B05D-63BB05DDA248</SessionId>
+  <OriginalRequest>
+    <Category>
+      <Id>10462</Id>
+      <Name>Bouw &amp; Constructie</Name>
+    </Category>
+    <RefinementGroup>
+      <Id>1296</Id>
+      <Name>leeftijd</Name>
+      <Refinement>
+        <Id>8067</Id>
+        <Name>12 jaar en ouder</Name>
+      </Refinement>
+    </RefinementGroup>
+  </OriginalRequest>
+  <TotalResultSize>283</TotalResultSize>
+  <Product>
+    <Id>1004004007093471</Id>
+    <Title>Xoomy tekenmachine</Title>
+    <Subtitle>Iedereen kan tekenen!</Subtitle>
+    <Type>toy</Type>
+    <Publisher>Ravensburger</Publisher>
+    <ShortDescription>&lt;p&gt;Met de Xoomy tekenmachine kunnen
+    kinderen eindeloos tekeningen maken. Zelfs hun zelfbedachte
+    cartoons! De flexibele zoomlens vergroot en verkleint tot 200%
+    en maakt dat ze in perspectief tekenen gemakkelijk onder de
+    knie krijgen. De verwisselbare filmpjes bieden tientallen
+    mogelijkheden en honderden onderwerpen. De 3,6V transformator
+    is inbegrepen. De uitgebreide ge&#195;&#175;llustreerde
+    handleiding biedt veel suggesties en stimuleert de
+    creativiteit. Geschikt voor kinderen vanaf 7
+    jaar.&lt;/p&gt;</ShortDescription>
+    <LongDescription>&lt;p&gt;Met de Xoomy tekenmachine kunnen
+    kinderen eindeloos tekeningen maken. Zelfs hun zelfbedachte
+    cartoons! De flexibele zoomlens vergroot en verkleint tot 200%
+    en maakt dat ze in perspectief tekenen gemakkelijk onder de
+    knie krijgen. De verwisselbare filmpjes bieden tientallen
+    mogelijkheden en honderden onderwerpen. De 3,6V transformator
+    is inbegrepen. De uitgebreide ge&#195;&#175;llustreerde
+    handleiding biedt veel suggesties en stimuleert de
+    creativiteit. Geschikt voor kinderen vanaf 7
+    jaar.&lt;/p&gt;</LongDescription>
+    <ReleaseDate>2009-04-30+02:00</ReleaseDate>
+    <Ean>4005556186570</Ean>
+    <Rating>5</Rating>
+    <Brand>
+      <Id>1662569</Id>
+      <Name>Ravensburger</Name>
+    </Brand>
+    <Color>Blauw</Color>
+    <ManufacturerProductNr>186570</ManufacturerProductNr>
+    <RecommendedMinAge>6.0</RecommendedMinAge>
+    <RecommendedMaxAge>16.0</RecommendedMaxAge>
+    <Offers>
+      <Offer>
+        <Id>1004004007093471</Id>
+        <State>Nieuw</State>
+        <Price>49.99</Price>
+        <AvailabilityCode>170</AvailabilityCode>
+        <AvailabilityDescription>Vandaag voor 22.30 uur besteld,
+        morgen in huis.</AvailabilityDescription>
+        <Seller>
+          <Id>0</Id>
+          <DisplayName>bolCom.com</DisplayName>
+          <Url>www.bolCom.com</Url>
+        </Seller>
+      </Offer>
+      <OfferTotals>
+        <Bol.com>1</Bol.com>
+        <SecondHand>0</SecondHand>
+        <Plaza>0</Plaza>
+      </OfferTotals>
+    </Offers>
+    <Urls>
+      <Main>
+      http://www.bolCom.com/nl/p/speelgoed/xoomy-tekenmachine/1004004007093471/index.html</Main>
+    </Urls>
+    <Images>
+      <ExtraSmall>
+      http://s-s-bolCom.com/imgbase0/imagebase/mini/FC/1/7/4/3/1004004007093471.jpg</ExtraSmall>
+      <Small>
+      http://s-s-bolCom.com/imgbase0/imagebase/tout/FC/1/7/4/3/1004004007093471.jpg</Small>
+      <Medium>
+      http://s-s-bolCom.com/imgbase0/imagebase/thumb/FC/1/7/4/3/1004004007093471.jpg</Medium>
+      <Large>
+      http://s-s-bolCom.com/imgbase0/imagebase/regular/FC/1/7/4/3/1004004007093471.jpg</Large>
+      <ExtraLarge>
+      http://s-s-bolCom.com/imgbase0/imagebase/large/FC/1/7/4/3/1004004007093471.jpg</ExtraLarge>
+    </Images>
+    <Promotions>
+      <Promotion>
+        <Title>3+1 gratis op het gehele
+        speelgoedassortiment!</Title>
+        <Description>Van 18 tot en met 21 november ontvang je bij
+        aankoop van 3 speelgoedartikelen het vierde
+        speelgoedartikel gratis. Hierbij ontvang je het
+        voordeligste artikel gratis. Deze actie is niet geldig op
+        boeken, cd&#226;&#8364;&#8482;s, dvd&#226;&#8364;&#8482;s,
+        games, consoles en elektronica artikelen. De korting wordt
+        automatisch in je winkelwagentje verrekend.</Description>
+        <Url>
+        http://www.bolCom.com/nl/l/speelgoed/bestverkocht/N/1283+1285+1408+5260+7373/sort/bestverkocht_41/weergave/tegels/index.html</Url>
+        <UrlText>Klik hier voor alle speelgoedartikelen uit de
+        actie</UrlText>
+      </Promotion>
+    </Promotions>
+  </Product>
+  <Product>
+    <Id>1004004009504011</Id>
+    <Title>Wild Planet Spy Agent Gear Tool Kit</Title>
+    <Type>toy</Type>
+    <Publisher>Wild Planet</Publisher>
+    <ShortDescription>&lt;p&gt;Wordt een echte spion met de Wild
+    Planet Spy Gear Agent Tool Kit. De pen dient als een snap-on
+    zaklamp met een verlichte buis, waarmee je 's nachts kunt
+    schrijven. Met het motie alarm zijn je spullen beschermd.
+    Dankzij de telescoop kun je van alles zien. Wanneer je je
+    missie hebt voldaan bewaar je de accessoires nauwkeurig in de
+    draagtas, zodat je snel en onopmerkelijk weggaat. Een leuk en
+    avontuurlijk spel voor kinderen vanaf 6
+    jaar.&lt;/p&gt;</ShortDescription>
+    <LongDescription>&lt;p&gt;Wordt een echte spion met de Wild
+    Planet Spy Gear Agent Tool Kit. De pen dient als een snap-on
+    zaklamp met een verlichte buis, waarmee je 's nachts kunt
+    schrijven. Met het motie alarm zijn je spullen beschermd.
+    Dankzij de telescoop kun je van alles zien. Wanneer je je
+    missie hebt voldaan bewaar je de accessoires nauwkeurig in de
+    draagtas, zodat je snel en onopmerkelijk weggaat. Een leuk en
+    avontuurlijk spel voor kinderen vanaf 6
+    jaar.&lt;/p&gt;</LongDescription>
+    <ReleaseDate>2010-04-30+02:00</ReleaseDate>
+    <Ean>0788668701575</Ean>
+    <Rating>2</Rating>
+    <Brand>
+      <Id>3046234</Id>
+      <Name>Spy Gear</Name>
+    </Brand>
+    <ManufacturerProductNr>70157</ManufacturerProductNr>
+    <RecommendedMinAge>6.0</RecommendedMinAge>
+    <RecommendedMaxAge>99.0</RecommendedMaxAge>
+    <Offers>
+      <Offer>
+        <Id>1004004009504011</Id>
+        <State>Nieuw</State>
+        <Price>16.99</Price>
+        <AvailabilityCode>175</AvailabilityCode>
+        <AvailabilityDescription>3-5
+        werkdagen</AvailabilityDescription>
+        <Seller>
+          <Id>0</Id>
+          <DisplayName>bolCom.com</DisplayName>
+          <Url>www.bolCom.com</Url>
+        </Seller>
+      </Offer>
+      <OfferTotals>
+        <Bol.com>1</Bol.com>
+        <SecondHand>0</SecondHand>
+        <Plaza>0</Plaza>
+      </OfferTotals>
+    </Offers>
+    <Urls>
+      <Main>
+      http://www.bolCom.com/nl/p/speelgoed/wild-planet-spy-agent-gear-tool-kit/1004004009504011/index.html</Main>
+    </Urls>
+    <Images>
+      <ExtraSmall>
+      http://s-s-bolCom.com/imgbase0/imagebase/mini/FC/1/1/0/4/1004004009504011.jpg</ExtraSmall>
+      <Small>
+      http://s-s-bolCom.com/imgbase0/imagebase/tout/FC/1/1/0/4/1004004009504011.jpg</Small>
+      <Medium>
+      http://s-s-bolCom.com/imgbase0/imagebase/thumb/FC/1/1/0/4/1004004009504011.jpg</Medium>
+      <Large>
+      http://s-s-bolCom.com/imgbase0/imagebase/regular/FC/1/1/0/4/1004004009504011.jpg</Large>
+      <ExtraLarge>
+      http://s-s-bolCom.com/imgbase0/imagebase/large/FC/1/1/0/4/1004004009504011.jpg</ExtraLarge>
+    </Images>
+    <Promotions>
+      <Promotion>
+        <Title>3+1 gratis op het gehele
+        speelgoedassortiment!</Title>
+        <Description>Van 18 tot en met 21 november ontvang je bij
+        aankoop van 3 speelgoedartikelen het vierde
+        speelgoedartikel gratis. Hierbij ontvang je het
+        voordeligste artikel gratis. Deze actie is niet geldig op
+        boeken, cd&#226;&#8364;&#8482;s, dvd&#226;&#8364;&#8482;s,
+        games, consoles en elektronica artikelen. De korting wordt
+        automatisch in je winkelwagentje verrekend.</Description>
+        <Url>
+        http://www.bolCom.com/nl/l/speelgoed/bestverkocht/N/1283+1285+1408+5260+7373/sort/bestverkocht_41/weergave/tegels/index.html</Url>
+        <UrlText>Klik hier voor alle speelgoedartikelen uit de
+        actie</UrlText>
+      </Promotion>
+    </Promotions>
+  </Product>
+  <Product>
+    <Id>1004004010594426</Id>
+    <Title>Waterput</Title>
+    <Type>toy</Type>
+    <Publisher>New Classic Toys</Publisher>
+    <ShortDescription>&lt;p&gt;Met Teifoc leer je bouwen met echte
+    bakstenen en cement van fijn zand en mais-extract. Bouw deze
+    waterput van 57 stukjes. De set is inclusief een bouwinstructie
+    en alle benodigdheden om het model te maken. Het motoriek,
+    creatieviteit en leervermogen worden door het driedimensionaal
+    bouwen gestimuleerd.&lt;/p&gt; &lt;p&gt;Afmeting verpakking:
+    L14,7 B7,9 H17,8 cm vanaf 6 jaar.&lt;/p&gt;</ShortDescription>
+    <LongDescription>&lt;p&gt;Met Teifoc leer je bouwen met echte
+    bakstenen en cement van fijn zand en mais-extract. Bouw deze
+    waterput van 57 stukjes. De set is inclusief een bouwinstructie
+    en alle benodigdheden om het model te maken. Het motoriek,
+    creatieviteit en leervermogen worden door het driedimensionaal
+    bouwen gestimuleerd.&lt;/p&gt; &lt;p&gt;Afmeting verpakking:
+    L14,7 B7,9 H17,8 cm vanaf 6 jaar.&lt;/p&gt;</LongDescription>
+    <Ean>4250503610008</Ean>
+    <Rating>4</Rating>
+    <NumberOfPieces>57</NumberOfPieces>
+    <Brand>
+      <Id>3009484</Id>
+      <Name>Teifoc</Name>
+    </Brand>
+    <Color>Bruin</Color>
+    <ManufacturerProductNr>T1065</ManufacturerProductNr>
+    <RecommendedMinAge>6.0</RecommendedMinAge>
+    <RecommendedMaxAge>99.0</RecommendedMaxAge>
+    <Offers>
+      <Offer>
+        <Id>1004004010594426</Id>
+        <State>Nieuw</State>
+        <Price>12.99</Price>
+        <AvailabilityCode>170</AvailabilityCode>
+        <AvailabilityDescription>Vandaag voor 22.30 uur besteld,
+        morgen in huis.</AvailabilityDescription>
+        <Seller>
+          <Id>0</Id>
+          <DisplayName>bolCom.com</DisplayName>
+          <Url>www.bolCom.com</Url>
+        </Seller>
+      </Offer>
+      <OfferTotals>
+        <Bol.com>1</Bol.com>
+        <SecondHand>0</SecondHand>
+        <Plaza>0</Plaza>
+      </OfferTotals>
+    </Offers>
+    <Urls>
+      <Main>
+      http://www.bolCom.com/nl/p/speelgoed/waterput/1004004010594426/index.html</Main>
+    </Urls>
+    <Images>
+      <ExtraSmall>
+      http://s-s-bolCom.com/imgbase0/imagebase/mini/FC/6/2/4/4/1004004010594426.jpg</ExtraSmall>
+      <Small>
+      http://s-s-bolCom.com/imgbase0/imagebase/tout/FC/6/2/4/4/1004004010594426.jpg</Small>
+      <Medium>
+      http://s-s-bolCom.com/imgbase0/imagebase/thumb/FC/6/2/4/4/1004004010594426.jpg</Medium>
+      <Large>
+      http://s-s-bolCom.com/imgbase0/imagebase/regular/FC/6/2/4/4/1004004010594426.jpg</Large>
+      <ExtraLarge>
+      http://s-s-bolCom.com/imgbase0/imagebase/large/FC/6/2/4/4/1004004010594426.jpg</ExtraLarge>
+    </Images>
+    <Promotions>
+      <Promotion>
+        <Title>3+1 gratis op het gehele
+        speelgoedassortiment!</Title>
+        <Description>Van 18 tot en met 21 november ontvang je bij
+        aankoop van 3 speelgoedartikelen het vierde
+        speelgoedartikel gratis. Hierbij ontvang je het
+        voordeligste artikel gratis. Deze actie is niet geldig op
+        boeken, cd&#226;&#8364;&#8482;s, dvd&#226;&#8364;&#8482;s,
+        games, consoles en elektronica artikelen. De korting wordt
+        automatisch in je winkelwagentje verrekend.</Description>
+        <Url>
+        http://www.bolCom.com/nl/l/speelgoed/bestverkocht/N/1283+1285+1408+5260+7373/sort/bestverkocht_41/weergave/tegels/index.html</Url>
+        <UrlText>Klik hier voor alle speelgoedartikelen uit de
+        actie</UrlText>
+      </Promotion>
+    </Promotions>
+  </Product>
+  <Product>
+    <Id>1004004007093523</Id>
+    <Title>Voetprint Analyse</Title>
+    <Type>toy</Type>
+    <ShortDescription>Met gipspoeder maak je een echte voetprint
+    afdruk. Veeg voorzichtig wat inkt op de print en maak een
+    afdruk op papier voor verder onderzoek.</ShortDescription>
+    <LongDescription>Met gipspoeder maak je een echte voetprint
+    afdruk. Veeg voorzichtig wat inkt op de print en maak een
+    afdruk op papier voor verder onderzoek.</LongDescription>
+    <ReleaseDate>2009-04-30+02:00</ReleaseDate>
+    <Ean>4893669289260</Ean>
+    <ManufacturerProductNr>28926</ManufacturerProductNr>
+    <RecommendedMinAge>8.0</RecommendedMinAge>
+    <RecommendedMaxAge>14.0</RecommendedMaxAge>
+    <Offers>
+      <Offer>
+        <Id>1004004007093523</Id>
+        <State>Nieuw</State>
+        <Price>8.99</Price>
+        <AvailabilityCode>175</AvailabilityCode>
+        <AvailabilityDescription>3-5
+        werkdagen</AvailabilityDescription>
+        <Seller>
+          <Id>0</Id>
+          <DisplayName>bolCom.com</DisplayName>
+          <Url>www.bolCom.com</Url>
+        </Seller>
+      </Offer>
+      <OfferTotals>
+        <Bol.com>1</Bol.com>
+        <SecondHand>0</SecondHand>
+        <Plaza>0</Plaza>
+      </OfferTotals>
+    </Offers>
+    <Urls>
+      <Main>
+      http://www.bolCom.com/nl/p/speelgoed/voetprint-analyse/1004004007093523/index.html</Main>
+    </Urls>
+    <Images>
+      <ExtraSmall>
+      http://s-s-bolCom.com/imgbase0/imagebase/mini/FC/3/2/5/3/1004004007093523.jpg</ExtraSmall>
+      <Small>
+      http://s-s-bolCom.com/imgbase0/imagebase/tout/FC/3/2/5/3/1004004007093523.jpg</Small>
+      <Medium>
+      http://s-s-bolCom.com/imgbase0/imagebase/thumb/FC/3/2/5/3/1004004007093523.jpg</Medium>
+      <Large>
+      http://s-s-bolCom.com/imgbase0/imagebase/regular/FC/3/2/5/3/1004004007093523.jpg</Large>
+      <ExtraLarge>
+      http://s-s-bolCom.com/imgbase0/imagebase/large/FC/3/2/5/3/1004004007093523.jpg</ExtraLarge>
+    </Images>
+    <Promotions>
+      <Promotion>
+        <Title>3+1 gratis op het gehele
+        speelgoedassortiment!</Title>
+        <Description>Van 18 tot en met 21 november ontvang je bij
+        aankoop van 3 speelgoedartikelen het vierde
+        speelgoedartikel gratis. Hierbij ontvang je het
+        voordeligste artikel gratis. Deze actie is niet geldig op
+        boeken, cd&#226;&#8364;&#8482;s, dvd&#226;&#8364;&#8482;s,
+        games, consoles en elektronica artikelen. De korting wordt
+        automatisch in je winkelwagentje verrekend.</Description>
+        <Url>
+        http://www.bolCom.com/nl/l/speelgoed/bestverkocht/N/1283+1285+1408+5260+7373/sort/bestverkocht_41/weergave/tegels/index.html</Url>
+        <UrlText>Klik hier voor alle speelgoedartikelen uit de
+        actie</UrlText>
+      </Promotion>
+    </Promotions>
+  </Product>
+  <Product>
+    <Id>1004004007093521</Id>
+    <Title>Vinger Analyse</Title>
+    <Type>toy</Type>
+    <ShortDescription>Sciene Time, vinger analyse. Zoek, ontdek en
+    verzamel je eigen collectie vingerafdrukken. De set bevat alle
+    accessoires die je daarbij nodig hebt.</ShortDescription>
+    <LongDescription>Sciene Time, vinger analyse. Zoek, ontdek en
+    verzamel je eigen collectie vingerafdrukken. De set bevat alle
+    accessoires die je daarbij nodig hebt.</LongDescription>
+    <ReleaseDate>2009-04-30+02:00</ReleaseDate>
+    <Ean>4893669289246</Ean>
+    <ManufacturerProductNr>28924</ManufacturerProductNr>
+    <RecommendedMinAge>8.0</RecommendedMinAge>
+    <RecommendedMaxAge>14.0</RecommendedMaxAge>
+    <Offers>
+      <Offer>
+        <Id>1004004007093521</Id>
+        <State>Nieuw</State>
+        <Price>7.99</Price>
+        <AvailabilityCode>175</AvailabilityCode>
+        <AvailabilityDescription>3-5
+        werkdagen</AvailabilityDescription>
+        <Seller>
+          <Id>0</Id>
+          <DisplayName>bolCom.com</DisplayName>
+          <Url>www.bolCom.com</Url>
+        </Seller>
+      </Offer>
+      <OfferTotals>
+        <Bol.com>1</Bol.com>
+        <SecondHand>0</SecondHand>
+        <Plaza>0</Plaza>
+      </OfferTotals>
+    </Offers>
+    <Urls>
+      <Main>
+      http://www.bolCom.com/nl/p/speelgoed/vinger-analyse/1004004007093521/index.html</Main>
+    </Urls>
+    <Images>
+      <ExtraSmall>
+      http://s-s-bolCom.com/imgbase0/imagebase/mini/FC/1/2/5/3/1004004007093521.jpg</ExtraSmall>
+      <Small>
+      http://s-s-bolCom.com/imgbase0/imagebase/tout/FC/1/2/5/3/1004004007093521.jpg</Small>
+      <Medium>
+      http://s-s-bolCom.com/imgbase0/imagebase/thumb/FC/1/2/5/3/1004004007093521.jpg</Medium>
+      <Large>
+      http://s-s-bolCom.com/imgbase0/imagebase/regular/FC/1/2/5/3/1004004007093521.jpg</Large>
+      <ExtraLarge>
+      http://s-s-bolCom.com/imgbase0/imagebase/large/FC/1/2/5/3/1004004007093521.jpg</ExtraLarge>
+    </Images>
+    <Promotions>
+      <Promotion>
+        <Title>3+1 gratis op het gehele
+        speelgoedassortiment!</Title>
+        <Description>Van 18 tot en met 21 november ontvang je bij
+        aankoop van 3 speelgoedartikelen het vierde
+        speelgoedartikel gratis. Hierbij ontvang je het
+        voordeligste artikel gratis. Deze actie is niet geldig op
+        boeken, cd&#226;&#8364;&#8482;s, dvd&#226;&#8364;&#8482;s,
+        games, consoles en elektronica artikelen. De korting wordt
+        automatisch in je winkelwagentje verrekend.</Description>
+        <Url>
+        http://www.bolCom.com/nl/l/speelgoed/bestverkocht/N/1283+1285+1408+5260+7373/sort/bestverkocht_41/weergave/tegels/index.html</Url>
+        <UrlText>Klik hier voor alle speelgoedartikelen uit de
+        actie</UrlText>
+      </Promotion>
+    </Promotions>
+  </Product>
+  <Category>
+    <Id>10463</Id>
+    <Name>LEGO</Name>
+    <ProductCount>261</ProductCount>
+  </Category>
+  <Category>
+    <Id>10464</Id>
+    <Name>K'NEX</Name>
+    <ProductCount>7</ProductCount>
+  </Category>
+  <Category>
+    <Id>10465</Id>
+    <Name>Mega Bloks</Name>
+    <ProductCount>29</ProductCount>
+  </Category>
+  <Category>
+    <Id>10467</Id>
+    <Name>Baufix</Name>
+    <ProductCount>1</ProductCount>
+  </Category>
+  <Category>
+    <Id>10468</Id>
+    <Name>Ministeck</Name>
+    <ProductCount>69</ProductCount>
+  </Category>
+  <Category>
+    <Id>10469</Id>
+    <Name>Meccano</Name>
+    <ProductCount>26</ProductCount>
+  </Category>
+  <Category>
+    <Id>10472</Id>
+    <Name>BRIO</Name>
+    <ProductCount>1</ProductCount>
+  </Category>
+  <Category>
+    <Id>10476</Id>
+    <Name>Overige Bouw &amp; Constructie</Name>
+    <ProductCount>86</ProductCount>
+  </Category>
+  <RefinementGroup>
+    <Id>1296</Id>
+    <Name>leeftijd</Name>
+    <Refinement>
+      <Id>8060</Id>
+      <Name>0-6 maanden</Name>
+      <ProductCount>1</ProductCount>
+    </Refinement>
+    <Refinement>
+      <Id>8061</Id>
+      <Name>6-12 maanden</Name>
+      <ProductCount>25</ProductCount>
+    </Refinement>
+    <Refinement>
+      <Id>8062</Id>
+      <Name>1-2 jaar</Name>
+      <ProductCount>141</ProductCount>
+    </Refinement>
+    <Refinement>
+      <Id>8063</Id>
+      <Name>2-3 jaar</Name>
+      <ProductCount>234</ProductCount>
+    </Refinement>
+    <Refinement>
+      <Id>8064</Id>
+      <Name>3-6 jaar</Name>
+      <ProductCount>715</ProductCount>
+    </Refinement>
+    <Refinement>
+      <Id>8065</Id>
+      <Name>6-9 jaar</Name>
+      <ProductCount>1168</ProductCount>
+    </Refinement>
+    <Refinement>
+      <Id>8066</Id>
+      <Name>9-12 jaar</Name>
+      <ProductCount>1118</ProductCount>
+    </Refinement>
+  </RefinementGroup>
+  <RefinementGroup>
+    <Id>8047</Id>
+    <Name>doelgroep</Name>
+    <Refinement>
+      <Id>8068</Id>
+      <Name>Jongens</Name>
+      <ProductCount>625</ProductCount>
+    </Refinement>
+    <Refinement>
+      <Id>8069</Id>
+      <Name>Jongens en meisjes</Name>
+      <ProductCount>211</ProductCount>
+    </Refinement>
+    <Refinement>
+      <Id>8070</Id>
+      <Name>Meisjes</Name>
+      <ProductCount>220</ProductCount>
+    </Refinement>
+    <Refinement>
+      <Id>8071</Id>
+      <Name>Volwassenen</Name>
+      <ProductCount>2</ProductCount>
+    </Refinement>
+  </RefinementGroup>
+  <RefinementGroup>
+    <Id>4842</Id>
+    <Name>merk</Name>
+    <Refinement>
+      <Id>4294329037</Id>
+      <Name>Alecto</Name>
+      <ProductCount>1</ProductCount>
+    </Refinement>
+    <Refinement>
+      <Id>4290137338</Id>
+      <Name>Asmodee</Name>
+      <ProductCount>1</ProductCount>
+    </Refinement>
+    <Refinement>
+      <Id>4291147733</Id>
+      <Name>Baufix</Name>
+      <ProductCount>1</ProductCount>
+    </Refinement>
+    <Refinement>
+      <Id>4291147918</Id>
+      <Name>Brio</Name>
+      <ProductCount>1</ProductCount>
+    </Refinement>
+    <Refinement>
+      <Id>4291147814</Id>
+      <Name>Cars</Name>
+      <ProductCount>1</ProductCount>
+    </Refinement>
+    <Refinement>
+      <Id>4291147701</Id>
+      <Name>Eitech</Name>
+      <ProductCount>18</ProductCount>
+    </Refinement>
+    <Refinement>
+      <Id>4291147384</Id>
+      <Name>Eye Clops</Name>
+      <ProductCount>1</ProductCount>
+    </Refinement>
+    <Refinement>
+      <Id>4291147783</Id>
+      <Name>Galileo</Name>
+      <ProductCount>1</ProductCount>
+    </Refinement>
+    <Refinement>
+      <Id>4291147682</Id>
+      <Name>Geomag</Name>
+      <ProductCount>1</ProductCount>
+    </Refinement>
+    <Refinement>
+      <Id>4291147877</Id>
+      <Name>Goliath</Name>
+      <ProductCount>2</ProductCount>
+    </Refinement>
+    <Refinement>
+      <Id>4291147602</Id>
+      <Name>K'Nex</Name>
+      <ProductCount>7</ProductCount>
+    </Refinement>
+    <Refinement>
+      <Id>4288914533</Id>
+      <Name>LEGO</Name>
+      <ProductCount>225</ProductCount>
+    </Refinement>
+    <Refinement>
+      <Id>4288914548</Id>
+      <Name>LEGO - Technic</Name>
+      <ProductCount>35</ProductCount>
+    </Refinement>
+    <Refinement>
+      <Id>4291058074</Id>
+      <Name>Meccano</Name>
+      <ProductCount>26</ProductCount>
+    </Refinement>
+    <Refinement>
+      <Id>4291148025</Id>
+      <Name>Mega Bloks</Name>
+      <ProductCount>29</ProductCount>
+    </Refinement>
+    <Refinement>
+      <Id>4291148011</Id>
+      <Name>Ministeck</Name>
+      <ProductCount>69</ProductCount>
+    </Refinement>
+    <Refinement>
+      <Id>4290137443</Id>
+      <Name>Professor Puzzle</Name>
+      <ProductCount>8</ProductCount>
+    </Refinement>
+    <Refinement>
+      <Id>4291148004</Id>
+      <Name>Ravensburger</Name>
+      <ProductCount>2</ProductCount>
+    </Refinement>
+    <Refinement>
+      <Id>4291148020</Id>
+      <Name>Revell</Name>
+      <ProductCount>155</ProductCount>
+    </Refinement>
+    <Refinement>
+      <Id>4289400684</Id>
+      <Name>Silverlit</Name>
+      <ProductCount>1</ProductCount>
+    </Refinement>
+    <Refinement>
+      <Id>4291147844</Id>
+      <Name>Spy Gear</Name>
+      <ProductCount>9</ProductCount>
+    </Refinement>
+    <Refinement>
+      <Id>4291147218</Id>
+      <Name>Teifoc</Name>
+      <ProductCount>6</ProductCount>
+    </Refinement>
+    <Refinement>
+      <Id>4290137425</Id>
+      <Name>TM Essentials</Name>
+      <ProductCount>1</ProductCount>
+    </Refinement>
+    <Refinement>
+      <Id>4291147926</Id>
+      <Name>Wise Block</Name>
+      <ProductCount>4</ProductCount>
+    </Refinement>
+  </RefinementGroup>
+  <RefinementGroup>
+    <Id>10631</Id>
+    <Name>merkthema</Name>
+    <Refinement>
+      <Id>4288694995</Id>
+      <Name>Bricks &amp; More LEGO&#194;&#174;</Name>
+      <ProductCount>4</ProductCount>
+    </Refinement>
+    <Refinement>
+      <Id>4288694983</Id>
+      <Name>LEGO Adventurers</Name>
+      <ProductCount>6</ProductCount>
+    </Refinement>
+    <Refinement>
+      <Id>4288844550</Id>
+      <Name>LEGO Agents</Name>
+      <ProductCount>8</ProductCount>
+    </Refinement>
+    <Refinement>
+      <Id>4288844555</Id>
+      <Name>LEGO Atlantis</Name>
+      <ProductCount>12</ProductCount>
+    </Refinement>
+    <Refinement>
+      <Id>4288844564</Id>
+      <Name>LEGO Basic</Name>
+      <ProductCount>3</ProductCount>
+    </Refinement>
+    <Refinement>
+      <Id>4288844558</Id>
+      <Name>LEGO Bionicle</Name>
+      <ProductCount>7</ProductCount>
+    </Refinement>
+    <Refinement>
+      <Id>4288844565</Id>
+      <Name>LEGO City</Name>
+      <ProductCount>1</ProductCount>
+    </Refinement>
+    <Refinement>
+      <Id>4288694991</Id>
+      <Name>LEGO City stad</Name>
+      <ProductCount>1</ProductCount>
+    </Refinement>
+    <Refinement>
+      <Id>4288844276</Id>
+      <Name>LEGO Harry Potter</Name>
+      <ProductCount>3</ProductCount>
+    </Refinement>
+    <Refinement>
+      <Id>4288844493</Id>
+      <Name>LEGO Herofactory</Name>
+      <ProductCount>34</ProductCount>
+    </Refinement>
+    <Refinement>
+      <Id>4288844551</Id>
+      <Name>LEGO Indiana Jones</Name>
+      <ProductCount>8</ProductCount>
+    </Refinement>
+    <Refinement>
+      <Id>4288844499</Id>
+      <Name>LEGO Kingdoms</Name>
+      <ProductCount>2</ProductCount>
+    </Refinement>
+    <Refinement>
+      <Id>4288844559</Id>
+      <Name>LEGO Mindstorms</Name>
+      <ProductCount>1</ProductCount>
+    </Refinement>
+    <Refinement>
+      <Id>4288844268</Id>
+      <Name>LEGO Ninjago</Name>
+      <ProductCount>26</ProductCount>
+    </Refinement>
+    <Refinement>
+      <Id>4288844061</Id>
+      <Name>LEGO Pirates of the Caribbean</Name>
+      <ProductCount>4</ProductCount>
+    </Refinement>
+    <Refinement>
+      <Id>4288844561</Id>
+      <Name>LEGO Powerminers</Name>
+      <ProductCount>9</ProductCount>
+    </Refinement>
+    <Refinement>
+      <Id>4288844418</Id>
+      <Name>LEGO Prince of Persia</Name>
+      <ProductCount>1</ProductCount>
+    </Refinement>
+    <Refinement>
+      <Id>4288844556</Id>
+      <Name>LEGO Racers</Name>
+      <ProductCount>8</ProductCount>
+    </Refinement>
+    <Refinement>
+      <Id>4288694982</Id>
+      <Name>LEGO Space</Name>
+      <ProductCount>7</ProductCount>
+    </Refinement>
+    <Refinement>
+      <Id>4288844563</Id>
+      <Name>LEGO Space Police</Name>
+      <ProductCount>9</ProductCount>
+    </Refinement>
+    <Refinement>
+      <Id>4288844277</Id>
+      <Name>LEGO Spel</Name>
+      <ProductCount>6</ProductCount>
+    </Refinement>
+    <Refinement>
+      <Id>4288844106</Id>
+      <Name>LEGO spellen</Name>
+      <ProductCount>6</ProductCount>
+    </Refinement>
+    <Refinement>
+      <Id>4288844562</Id>
+      <Name>LEGO Star Wars</Name>
+      <ProductCount>25</ProductCount>
+    </Refinement>
+    <Refinement>
+      <Id>4288844554</Id>
+      <Name>LEGO Technic</Name>
+      <ProductCount>34</ProductCount>
+    </Refinement>
+    <Refinement>
+      <Id>4288844557</Id>
+      <Name>LEGO Toy Story</Name>
+      <ProductCount>1</ProductCount>
+    </Refinement>
+  </RefinementGroup>
+  <RefinementGroup>
+    <Id>8049</Id>
+    <Name>thema</Name>
+    <Refinement>
+      <Id>4291146730</Id>
+      <Name>Boerderij</Name>
+      <ProductCount>2</ProductCount>
+    </Refinement>
+    <Refinement>
+      <Id>4291146687</Id>
+      <Name>Brandweer</Name>
+      <ProductCount>8</ProductCount>
+    </Refinement>
+    <Refinement>
+      <Id>4291129789</Id>
+      <Name>De Bouw</Name>
+      <ProductCount>15</ProductCount>
+    </Refinement>
+    <Refinement>
+      <Id>4289239868</Id>
+      <Name>De Zee</Name>
+      <ProductCount>3</ProductCount>
+    </Refinement>
+    <Refinement>
+      <Id>4291146744</Id>
+      <Name>De zee</Name>
+      <ProductCount>4</ProductCount>
+    </Refinement>
+    <Refinement>
+      <Id>4291146722</Id>
+      <Name>Dieren</Name>
+      <ProductCount>21</ProductCount>
+    </Refinement>
+    <Refinement>
+      <Id>4291146666</Id>
+      <Name>Griezel</Name>
+      <ProductCount>2</ProductCount>
+    </Refinement>
+    <Refinement>
+      <Id>4291146743</Id>
+      <Name>Middeleeuwen</Name>
+      <ProductCount>4</ProductCount>
+    </Refinement>
+    <Refinement>
+      <Id>4291146721</Id>
+      <Name>Oorlog</Name>
+      <ProductCount>44</ProductCount>
+    </Refinement>
+    <Refinement>
+      <Id>4291146702</Id>
+      <Name>Piraten</Name>
+      <ProductCount>5</ProductCount>
+    </Refinement>
+    <Refinement>
+      <Id>4291146707</Id>
+      <Name>Politie</Name>
+      <ProductCount>9</ProductCount>
+    </Refinement>
+    <Refinement>
+      <Id>4291146679</Id>
+      <Name>Prehistorie</Name>
+      <ProductCount>1</ProductCount>
+    </Refinement>
+    <Refinement>
+      <Id>4291146683</Id>
+      <Name>Reizen</Name>
+      <ProductCount>1</ProductCount>
+    </Refinement>
+    <Refinement>
+      <Id>4291146675</Id>
+      <Name>School</Name>
+      <ProductCount>1</ProductCount>
+    </Refinement>
+    <Refinement>
+      <Id>4291146697</Id>
+      <Name>Science Fiction</Name>
+      <ProductCount>93</ProductCount>
+    </Refinement>
+    <Refinement>
+      <Id>4291146734</Id>
+      <Name>Sprookjes</Name>
+      <ProductCount>2</ProductCount>
+    </Refinement>
+    <Refinement>
+      <Id>4291146686</Id>
+      <Name>Stadsleven</Name>
+      <ProductCount>5</ProductCount>
+    </Refinement>
+    <Refinement>
+      <Id>4291146728</Id>
+      <Name>Transport</Name>
+      <ProductCount>26</ProductCount>
+    </Refinement>
+    <Refinement>
+      <Id>4291146709</Id>
+      <Name>Vliegtuigen</Name>
+      <ProductCount>16</ProductCount>
+    </Refinement>
+    <Refinement>
+      <Id>4291146729</Id>
+      <Name>Winter</Name>
+      <ProductCount>1</ProductCount>
+    </Refinement>
+    <Refinement>
+      <Id>4291146695</Id>
+      <Name>Ziekenhuis</Name>
+      <ProductCount>1</ProductCount>
+    </Refinement>
+    <Refinement>
+      <Id>4291146741</Id>
+      <Name>Zomer</Name>
+      <ProductCount>2</ProductCount>
+    </Refinement>
+  </RefinementGroup>
+  <RefinementGroup>
+    <Id>8048</Id>
+    <Name>personage</Name>
+    <Refinement>
+      <Id>4291146671</Id>
+      <Name>Assepoester</Name>
+      <ProductCount>1</ProductCount>
+    </Refinement>
+    <Refinement>
+      <Id>4291146718</Id>
+      <Name>Cars</Name>
+      <ProductCount>2</ProductCount>
+    </Refinement>
+    <Refinement>
+      <Id>4291146742</Id>
+      <Name>Disney Princess</Name>
+      <ProductCount>3</ProductCount>
+    </Refinement>
+    <Refinement>
+      <Id>4291146719</Id>
+      <Name>Hello Kitty</Name>
+      <ProductCount>1</ProductCount>
+    </Refinement>
+    <Refinement>
+      <Id>4291146694</Id>
+      <Name>Indiana Jones</Name>
+      <ProductCount>10</ProductCount>
+    </Refinement>
+    <Refinement>
+      <Id>4291146706</Id>
+      <Name>Mickey Mouse</Name>
+      <ProductCount>1</ProductCount>
+    </Refinement>
+    <Refinement>
+      <Id>4291146680</Id>
+      <Name>Prinses Lillifee</Name>
+      <ProductCount>2</ProductCount>
+    </Refinement>
+    <Refinement>
+      <Id>4291146698</Id>
+      <Name>Star Wars</Name>
+      <ProductCount>33</ProductCount>
+    </Refinement>
+    <Refinement>
+      <Id>4291146716</Id>
+      <Name>Toy Story</Name>
+      <ProductCount>2</ProductCount>
+    </Refinement>
+  </RefinementGroup>
+  <RefinementGroup>
+    <Id>10629</Id>
+    <Name>formaat</Name>
+    <Refinement>
+      <Id>10632</Id>
+      <Name>Tot 20 cm</Name>
+      <ProductCount>44</ProductCount>
+    </Refinement>
+    <Refinement>
+      <Id>10634</Id>
+      <Name>0,5 - 1 m</Name>
+      <ProductCount>12</ProductCount>
+    </Refinement>
+    <Refinement>
+      <Id>10633</Id>
+      <Name>20 - 50 cm</Name>
+      <ProductCount>20</ProductCount>
+    </Refinement>
+  </RefinementGroup>
+  <RefinementGroup>
+    <Id>4852</Id>
+    <Name>prijs</Name>
+    <Refinement>
+      <Id>7143</Id>
+      <Name>Tot &#226;&#8218;&#172; 10</Name>
+      <ProductCount>187</ProductCount>
+    </Refinement>
+    <Refinement>
+      <Id>4854</Id>
+      <Name>Tot &#226;&#8218;&#172; 20</Name>
+      <ProductCount>376</ProductCount>
+    </Refinement>
+    <Refinement>
+      <Id>4855</Id>
+      <Name>Tot &#226;&#8218;&#172; 30</Name>
+      <ProductCount>444</ProductCount>
+    </Refinement>
+    <Refinement>
+      <Id>4856</Id>
+      <Name>Tot &#226;&#8218;&#172; 40</Name>
+      <ProductCount>497</ProductCount>
+    </Refinement>
+    <Refinement>
+      <Id>4857</Id>
+      <Name>Tot &#226;&#8218;&#172; 50</Name>
+      <ProductCount>538</ProductCount>
+    </Refinement>
+    <Refinement>
+      <Id>4858</Id>
+      <Name>Tot &#226;&#8218;&#172; 100</Name>
+      <ProductCount>614</ProductCount>
+    </Refinement>
+    <Refinement>
+      <Id>5014</Id>
+      <Name>Tot &#226;&#8218;&#172; 200</Name>
+      <ProductCount>636</ProductCount>
+    </Refinement>
+    <Refinement>
+      <Id>4860</Id>
+      <Name>Tot &#226;&#8218;&#172; 300</Name>
+      <ProductCount>637</ProductCount>
+    </Refinement>
+    <Refinement>
+      <Id>4861</Id>
+      <Name>Tot &#226;&#8218;&#172; 400</Name>
+      <ProductCount>637</ProductCount>
+    </Refinement>
+    <Refinement>
+      <Id>4862</Id>
+      <Name>Tot &#226;&#8218;&#172; 500</Name>
+      <ProductCount>637</ProductCount>
+    </Refinement>
+    <Refinement>
+      <Id>4863</Id>
+      <Name>Tot &#226;&#8218;&#172; 750</Name>
+      <ProductCount>637</ProductCount>
+    </Refinement>
+    <Refinement>
+      <Id>4864</Id>
+      <Name>Tot &#226;&#8218;&#172; 1000</Name>
+      <ProductCount>637</ProductCount>
+    </Refinement>
+    <Refinement>
+      <Id>4865</Id>
+      <Name>Tot &#226;&#8218;&#172; 1500</Name>
+      <ProductCount>637</ProductCount>
+    </Refinement>
+    <Refinement>
+      <Id>4866</Id>
+      <Name>Tot &#226;&#8218;&#172; 2000</Name>
+      <ProductCount>637</ProductCount>
+    </Refinement>
+    <Refinement>
+      <Id>7346</Id>
+      <Name>Tot &#226;&#8218;&#172; 2500</Name>
+      <ProductCount>637</ProductCount>
+    </Refinement>
+  </RefinementGroup>
+  <RefinementGroup>
+    <Id>1316</Id>
+    <Name>specials</Name>
+    <Refinement>
+      <Id>4288520973</Id>
+      <Name>Dienstvoertuigen</Name>
+      <ProductCount>2</ProductCount>
+    </Refinement>
+    <Refinement>
+      <Id>4291043414</Id>
+      <Name>Disney Speelgoed</Name>
+      <ProductCount>2</ProductCount>
+    </Refinement>
+    <Refinement>
+      <Id>4288779253</Id>
+      <Name>LEGO Exclusives</Name>
+      <ProductCount>6</ProductCount>
+    </Refinement>
+    <Refinement>
+      <Id>4288520930</Id>
+      <Name>Lego Treinen</Name>
+      <ProductCount>1</ProductCount>
+    </Refinement>
+    <Refinement>
+      <Id>4288516966</Id>
+      <Name>Speelgoed van het jaar 2011</Name>
+      <ProductCount>1</ProductCount>
+    </Refinement>
+    <Refinement>
+      <Id>4289185292</Id>
+      <Name>Speelgoeduitverkoop</Name>
+      <ProductCount>64</ProductCount>
+    </Refinement>
+  </RefinementGroup>
+  <RefinementGroup>
+    <Id>7287</Id>
+    <Name>aanraders</Name>
+    <Refinement>
+      <Id>7288</Id>
+      <Name>Te reserveren</Name>
+      <ProductCount>5</ProductCount>
+    </Refinement>
+    <Refinement>
+      <Id>7289</Id>
+      <Name>Nieuw verschenen</Name>
+      <ProductCount>1</ProductCount>
+    </Refinement>
+  </RefinementGroup>
+  <RefinementGroup>
+    <Id>10640</Id>
+    <Name>automerk</Name>
+    <Refinement>
+      <Id>4289044610</Id>
+      <Name>Audi&#194;&#160;</Name>
+      <ProductCount>1</ProductCount>
+    </Refinement>
+    <Refinement>
+      <Id>4289222140</Id>
+      <Name>Dodge</Name>
+      <ProductCount>1</ProductCount>
+    </Refinement>
+    <Refinement>
+      <Id>4289222065</Id>
+      <Name>Ferrari</Name>
+      <ProductCount>10</ProductCount>
+    </Refinement>
+    <Refinement>
+      <Id>4289222038</Id>
+      <Name>Jeep</Name>
+      <ProductCount>3</ProductCount>
+    </Refinement>
+    <Refinement>
+      <Id>4289221782</Id>
+      <Name>Mini</Name>
+      <ProductCount>1</ProductCount>
+    </Refinement>
+    <Refinement>
+      <Id>4289222043</Id>
+      <Name>Nissan</Name>
+      <ProductCount>1</ProductCount>
+    </Refinement>
+    <Refinement>
+      <Id>4289222326</Id>
+      <Name>Porsche</Name>
+      <ProductCount>2</ProductCount>
+    </Refinement>
+    <Refinement>
+      <Id>4289221155</Id>
+      <Name>Saab</Name>
+      <ProductCount>2</ProductCount>
+    </Refinement>
+  </RefinementGroup>
+  <RefinementGroup>
+    <Id>10642</Id>
+    <Name>besturingstype</Name>
+    <Refinement>
+      <Id>4289222060</Id>
+      <Name>Radiografisch</Name>
+      <ProductCount>5</ProductCount>
+    </Refinement>
+  </RefinementGroup>
+  <RefinementGroup>
+    <Id>10646</Id>
+    <Name>geluid</Name>
+    <Refinement>
+      <Id>4289222170</Id>
+      <Name>Ja</Name>
+    </Refinement>
+    <Refinement>
+      <Id>4289222302</Id>
+      <Name>Nee</Name>
+    </Refinement>
+  </RefinementGroup>
+  <RefinementGroup>
+    <Id>10645</Id>
+    <Name>materiaal</Name>
+    <Refinement>
+      <Id>4289222222</Id>
+      <Name>Hout</Name>
+      <ProductCount>13</ProductCount>
+    </Refinement>
+    <Refinement>
+      <Id>4289221999</Id>
+      <Name>Klei</Name>
+      <ProductCount>4</ProductCount>
+    </Refinement>
+    <Refinement>
+      <Id>4289222315</Id>
+      <Name>Kunststof</Name>
+      <ProductCount>320</ProductCount>
+    </Refinement>
+    <Refinement>
+      <Id>4289221241</Id>
+      <Name>Kunststof/papier</Name>
+      <ProductCount>1</ProductCount>
+    </Refinement>
+    <Refinement>
+      <Id>4289222325</Id>
+      <Name>Metaal</Name>
+      <ProductCount>37</ProductCount>
+    </Refinement>
+    <Refinement>
+      <Id>4289222187</Id>
+      <Name>Metaal/Kunststof</Name>
+      <ProductCount>5</ProductCount>
+    </Refinement>
+    <Refinement>
+      <Id>4289221311</Id>
+      <Name>Metaal/kunststof</Name>
+      <ProductCount>1</ProductCount>
+    </Refinement>
+    <Refinement>
+      <Id>4289221971</Id>
+      <Name>Plastic</Name>
+      <ProductCount>43</ProductCount>
+    </Refinement>
+  </RefinementGroup>
+  <RefinementGroup>
+    <Id>10639</Id>
+    <Name>schaal</Name>
+    <Refinement>
+      <Id>4289221827</Id>
+      <Name>1 : 1200</Name>
+      <ProductCount>2</ProductCount>
+    </Refinement>
+    <Refinement>
+      <Id>4289221734</Id>
+      <Name>1 : 144</Name>
+      <ProductCount>6</ProductCount>
+    </Refinement>
+    <Refinement>
+      <Id>4289220901</Id>
+      <Name>1 : 24</Name>
+      <ProductCount>1</ProductCount>
+    </Refinement>
+    <Refinement>
+      <Id>4289221809</Id>
+      <Name>1 : 48</Name>
+      <ProductCount>2</ProductCount>
+    </Refinement>
+    <Refinement>
+      <Id>4289221805</Id>
+      <Name>1 : 72</Name>
+      <ProductCount>13</ProductCount>
+    </Refinement>
+    <Refinement>
+      <Id>4289221820</Id>
+      <Name>1 : 76</Name>
+      <ProductCount>9</ProductCount>
+    </Refinement>
+    <Refinement>
+      <Id>4289222023</Id>
+      <Name>1:10</Name>
+      <ProductCount>1</ProductCount>
+    </Refinement>
+    <Refinement>
+      <Id>4289221451</Id>
+      <Name>1:12</Name>
+      <ProductCount>1</ProductCount>
+    </Refinement>
+    <Refinement>
+      <Id>4289221137</Id>
+      <Name>1:120</Name>
+      <ProductCount>2</ProductCount>
+    </Refinement>
+    <Refinement>
+      <Id>4289221882</Id>
+      <Name>1:1200</Name>
+      <ProductCount>3</ProductCount>
+    </Refinement>
+    <Refinement>
+      <Id>4289221892</Id>
+      <Name>1:144</Name>
+      <ProductCount>10</ProductCount>
+    </Refinement>
+    <Refinement>
+      <Id>4289221279</Id>
+      <Name>1:150</Name>
+      <ProductCount>1</ProductCount>
+    </Refinement>
+    <Refinement>
+      <Id>4289222329</Id>
+      <Name>1:18</Name>
+      <ProductCount>1</ProductCount>
+    </Refinement>
+    <Refinement>
+      <Id>4289221161</Id>
+      <Name>1:200</Name>
+      <ProductCount>1</ProductCount>
+    </Refinement>
+    <Refinement>
+      <Id>4289222330</Id>
+      <Name>1:24</Name>
+      <ProductCount>17</ProductCount>
+    </Refinement>
+    <Refinement>
+      <Id>4289221238</Id>
+      <Name>1:25</Name>
+      <ProductCount>2</ProductCount>
+    </Refinement>
+    <Refinement>
+      <Id>4289221110</Id>
+      <Name>1:250</Name>
+      <ProductCount>1</ProductCount>
+    </Refinement>
+    <Refinement>
+      <Id>4289221234</Id>
+      <Name>1:288</Name>
+      <ProductCount>1</ProductCount>
+    </Refinement>
+    <Refinement>
+      <Id>4289222001</Id>
+      <Name>1:32</Name>
+      <ProductCount>5</ProductCount>
+    </Refinement>
+    <Refinement>
+      <Id>4289221179</Id>
+      <Name>1:35</Name>
+      <ProductCount>1</ProductCount>
+    </Refinement>
+    <Refinement>
+      <Id>4289221139</Id>
+      <Name>1:350</Name>
+      <ProductCount>2</ProductCount>
+    </Refinement>
+    <Refinement>
+      <Id>4289221769</Id>
+      <Name>1:36</Name>
+      <ProductCount>1</ProductCount>
+    </Refinement>
+    <Refinement>
+      <Id>4289221225</Id>
+      <Name>1:48</Name>
+      <ProductCount>4</ProductCount>
+    </Refinement>
+    <Refinement>
+      <Id>4289222128</Id>
+      <Name>1:72</Name>
+      <ProductCount>23</ProductCount>
+    </Refinement>
+    <Refinement>
+      <Id>4289221160</Id>
+      <Name>1:720</Name>
+      <ProductCount>1</ProductCount>
+    </Refinement>
+  </RefinementGroup>
+  <RefinementGroup>
+    <Id>11251</Id>
+    <Name>Media</Name>
+    <Refinement>
+      <Id>11252</Id>
+      <Name>Plaatjes</Name>
+      <ProductCount>629</ProductCount>
+    </Refinement>
+    <Refinement>
+      <Id>11253</Id>
+      <Name>Stills</Name>
+      <ProductCount>277</ProductCount>
+    </Refinement>
+  </RefinementGroup>
+</ListResultResponse>

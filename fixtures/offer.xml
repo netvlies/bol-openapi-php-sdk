@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Offer>
+    <Id>1004004007093471</Id>
+    <State>Nieuw</State>
+    <Price>49.99</Price>
+    <AvailabilityCode>170</AvailabilityCode>
+    <AvailabilityDescription>Vandaag voor 22.30 uur besteld, morgen in huis.</AvailabilityDescription>
+    <Seller>
+        <Id>0</Id>
+        <DisplayName>bolCom.com</DisplayName>
+        <Url>www.bolCom.com</Url>
+    </Seller>
+</Offer>

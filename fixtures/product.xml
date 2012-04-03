@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Product>
+  <Id>1001004011586273</Id>
+  <Title>De Hobbit</Title>
+  <Type>book</Type>
+  <Publisher>Boekerij</Publisher>
+  <ShortDescription>Op een dag komen er zomaar dertien dwergen op bezoek bij meneer Bilbo Balings, vergezeld door de beroemde tovenaar Gandalf. Ze komen een feestje vieren in z&#195;&#173;jn hobbithol; een afscheidsfeestje welteverstaan. De volgende dag gaat de groep op reis om in het oude Moria een schat te zoeken. Tot zijn grote schrik stelt Gandalf voor dat Bilbo meegaat als het veertiende lid van de expeditie. Voor hij het weet, is hij op avontuur en komt hij in aanraking met trollen, reusachtige wolven, spinnen, aardmannen en niet te vergeten de oude draak Smaug. Zo wordt Bilbo de meest wereldwijze hobbit ooit. &lt;br/&gt;&lt;br/&gt;</ShortDescription>
+  <LongDescription>Op een dag komen er zomaar dertien dwergen op bezoek bij meneer Bilbo Balings, vergezeld door de beroemde tovenaar Gandalf. Ze komen een feestje vieren in z&#195;&#173;jn hobbithol; een afscheidsfeestje welteverstaan. De volgende dag gaat de groep op reis om in het oude Moria een schat te zoeken. Tot zijn grote schrik stelt Gandalf voor dat Bilbo meegaat als het veertiende lid van de expeditie. Voor hij het weet, is hij op avontuur en komt hij in aanraking met trollen, reusachtige wolven, spinnen, aardmannen en niet te vergeten de oude draak Smaug. Zo wordt Bilbo de meest wereldwijze hobbit ooit. &lt;br/&gt;&lt;br/&gt;</LongDescription>
+  <ReleaseDate>2011-07-27+02:00</ReleaseDate>
+  <Ean>9789022561942</Ean>
+  <Rating>5</Rating>
+  <BindingCode>ING</BindingCode>
+  <BindingDescription>Paperback</BindingDescription>
+  <LanguageCode>nl</LanguageCode>
+  <LanguageDescription>Nederlands</LanguageDescription>
+  <PageCount>253</PageCount>
+  <Offers>
+    <Offer>
+      <Id>1001004011586273</Id>
+      <State>Nieuw</State>
+      <Price>18.95</Price>
+      <AvailabilityCode>172</AvailabilityCode>
+      <AvailabilityDescription>Vandaag voor 17.00 uur besteld,
+      morgen in huis.</AvailabilityDescription>
+      <Seller>
+        <Id>0</Id>
+        <DisplayName>bolCom.com</DisplayName>
+        <Url>www.bolCom.com</Url>
+      </Seller>
+    </Offer>
+    <OfferTotals>
+      <Bol.com>1</Bol.com>
+      <SecondHand>0</SecondHand>
+      <Plaza>0</Plaza>
+    </OfferTotals>
+  </Offers>
+  <Urls>
+    <Main>
+    http://www.bolCom.com/nl/p/nederlandse-boeken/de-hobbit/1001004011586273/index.html</Main>
+  </Urls>
+  <Authors>
+    <Author>
+      <Id>53578</Id>
+      <Name>J.R.R. Tolkien</Name>
+    </Author>
+  </Authors>
+  <Images>
+    <ExtraSmall>
+    http://s-s-bolCom.com/imgbase0/imagebase/mini/FC/3/7/2/6/1001004011586273.jpg</ExtraSmall>
+    <Small>
+    http://s-s-bolCom.com/imgbase0/imagebase/tout/FC/3/7/2/6/1001004011586273.jpg</Small>
+    <Medium>
+    http://s-s-bolCom.com/imgbase0/imagebase/thumb/FC/3/7/2/6/1001004011586273.jpg</Medium>
+    <Large>
+    http://s-s-bolCom.com/imgbase0/imagebase/regular/FC/3/7/2/6/1001004011586273.jpg</Large>
+    <ExtraLarge>
+    http://s-s-bolCom.com/imgbase0/imagebase/large/FC/3/7/2/6/1001004011586273.jpg</ExtraLarge>
+  </Images>
+</Product>

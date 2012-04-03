@@ -1,0 +1,10 @@
+{
+    "hash": "4066461405ccd5bff71b9d638b8041fa",
+    "packages": [
+        {
+            "package": "kriswallsmith/buzz",
+            "version": "v0.5"
+        }
+    ],
+    "aliases": []
+}

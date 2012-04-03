@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<ProductResponse xmlns="http://openapi.bol.com/openapi-3.0.0">
+  <SessionId>492616E7-4B57-42A8-A688-28DD6943AE4E</SessionId>
+  <Product>
+    <Id>1001004006016448</Id>
+    <Title>Harry Potter Boxed Set (Adult Edition)</Title>
+    <Subtitle>Volume 1 - 7, paperback</Subtitle>
+    <Type>book</Type>
+    <Publisher>Bloomsbury Publishing PLC</Publisher>
+    <ShortDescription>This is a fabulous opportunity to finally own
+    all seven Harry Potter titles - Harry Potter and the
+    Philosopher's Stone , Harry Potter and the Chamber of Secrets ,
+    Harry Potter and the Prisoner of Azkaban , Harry Potter and the
+    Goblet of Fire , Harry Potter and the Order of the Phoenix ,
+    Harry Potter and the Half-Blood Prince and Harry Potter and the
+    Deathly Hallows - in a fantastic boxed set.</ShortDescription>
+    <LongDescription>This is a fabulous opportunity to finally own
+    all seven Harry Potter titles - Harry Potter and the
+    Philosopher's Stone , Harry Potter and the Chamber of Secrets ,
+    Harry Potter and the Prisoner of Azkaban , Harry Potter and the
+    Goblet of Fire , Harry Potter and the Order of the Phoenix ,
+    Harry Potter and the Half-Blood Prince and Harry Potter and the
+    Deathly Hallows - in a fantastic boxed set.</LongDescription>
+    <ReleaseDate>2008-10-01+02:00</ReleaseDate>
+    <Ean>9780747595847</Ean>
+    <Rating>5</Rating>
+    <BindingCode>1101</BindingCode>
+    <BindingDescription>Paperback</BindingDescription>
+    <LanguageCode>en</LanguageCode>
+    <LanguageDescription>Engels</LanguageDescription>
+    <PageCount>3407</PageCount>
+    <Offers>
+      <Offer>
+        <Id>1001004006016448</Id>
+        <State>Nieuw</State>
+        <Price>70.99</Price>
+        <ListPrice>78.99</ListPrice>
+        <AvailabilityCode>170</AvailabilityCode>
+        <AvailabilityDescription>Vandaag voor 22.30 uur besteld,
+        morgen in huis.</AvailabilityDescription>
+        <Seller>
+          <Id>0</Id>
+          <DisplayName>bolCom.com</DisplayName>
+          <Url>www.bolCom.com</Url>
+        </Seller>
+      </Offer>
+      <Offer>
+        <Id>1001024020748223</Id>
+        <State>Als nieuw</State>
+        <Price>61.83</Price>
+        <AvailabilityCode>222</AvailabilityCode>
+        <AvailabilityDescription>1-8
+        werkdagen</AvailabilityDescription>
+        <Comment>Cadeauwaardig.</Comment>
+        <SecondHand>true</SecondHand>
+        <Seller>
+          <Id>491342</Id>
+          <DisplayName>BOEKEN-SINT</DisplayName>
+          <NumberOfReviews>5</NumberOfReviews>
+          <OverallRating>45</OverallRating>
+        </Seller>
+      </Offer>
+      <Offer>
+        <Id>1001024020649078</Id>
+        <State>Als nieuw</State>
+        <Price>62.45</Price>
+        <AvailabilityCode>222</AvailabilityCode>
+        <AvailabilityDescription>1-8
+        werkdagen</AvailabilityDescription>
+        <Comment>BOX IS HELEMAAL NIEUW EN ONGEOPEND.</Comment>
+        <SecondHand>true</SecondHand>
+        <Seller>
+          <Id>215510</Id>
+          <DisplayName>JASMIJN BOEKEN</DisplayName>
+          <NumberOfReviews>1744</NumberOfReviews>
+          <OverallRating>45</OverallRating>
+        </Seller>
+      </Offer>
+      <Offer>
+        <Id>1001024020212123</Id>
+        <State>Als nieuw</State>
+        <Price>62.99</Price>
+        <AvailabilityCode>222</AvailabilityCode>
+        <AvailabilityDescription>1-8
+        werkdagen</AvailabilityDescription>
+        <Comment>Nieuw boek</Comment>
+        <SecondHand>true</SecondHand>
+        <Seller>
+          <Id>403101</Id>
+          <DisplayName>123Books</DisplayName>
+          <NumberOfReviews>71</NumberOfReviews>
+          <OverallRating>45</OverallRating>
+        </Seller>
+      </Offer>
+      <Offer>
+        <Id>1001024018410457</Id>
+        <State>Als nieuw</State>
+        <Price>66.95</Price>
+        <AvailabilityCode>222</AvailabilityCode>
+        <AvailabilityDescription>1-8
+        werkdagen</AvailabilityDescription>
+        <SecondHand>true</SecondHand>
+        <Seller>
+          <Id>49961</Id>
+          <DisplayName>Rick Boer</DisplayName>
+          <NumberOfReviews>250</NumberOfReviews>
+          <OverallRating>40</OverallRating>
+        </Seller>
+      </Offer>
+      <Offer>
+        <Id>1001024020286556</Id>
+        <State>Als nieuw</State>
+        <Price>67.5</Price>
+        <AvailabilityCode>222</AvailabilityCode>
+        <AvailabilityDescription>1-8
+        werkdagen</AvailabilityDescription>
+        <Comment>Houd rekenng met een bezorgtijd van 14
+        dagen</Comment>
+        <SecondHand>true</SecondHand>
+        <Seller>
+          <Id>269079</Id>
+          <DisplayName>Lies boeken</DisplayName>
+          <NumberOfReviews>242</NumberOfReviews>
+          <OverallRating>40</OverallRating>
+        </Seller>
+      </Offer>
+      <OfferTotals>
+        <Bol.com>1</Bol.com>
+        <SecondHand>5</SecondHand>
+        <Plaza>0</Plaza>
+      </OfferTotals>
+    </Offers>
+    <Urls>
+      <Main>
+      http://www.bolCom.com/nl/p/engelse-boeken/harry-potter-boxed-set/1001004006016448/index.html</Main>
+    </Urls>
+    <Authors>
+      <Author>
+        <Id>231315</Id>
+        <Name>J. K. Rowling</Name>
+      </Author>
+      <Author>
+        <Id>540846</Id>
+        <Name>J.K. Rowling</Name>
+      </Author>
+    </Authors>
+    <Images>
+      <ExtraSmall>
+      http://s-s-bolCom.com/imgbase0/imagebase/mini/FC/8/4/4/6/1001004006016448.jpg</ExtraSmall>
+      <Small>
+      http://s-s-bolCom.com/imgbase0/imagebase/tout/FC/8/4/4/6/1001004006016448.jpg</Small>
+      <Medium>
+      http://s-s-bolCom.com/imgbase0/imagebase/thumb/FC/8/4/4/6/1001004006016448.jpg</Medium>
+      <Large>
+      http://s-s-bolCom.com/imgbase0/imagebase/regular/FC/8/4/4/6/1001004006016448.jpg</Large>
+      <ExtraLarge>
+      http://s-s-bolCom.com/imgbase0/imagebase/large/FC/8/4/4/6/1001004006016448.jpg</ExtraLarge>
+    </Images>
+    <Promotions>
+      <Promotion>
+        <Title>Tot 20% korting op de mooiste cadeausets</Title>
+        <Description>Profiteer nu tot 20% korting op de beste
+        Engelse boeken in prachtige boxsets. Met onder andere de
+        The Hunger Games door Suzanne Collins, Diary of A Wimpy Kid
+        en de volledige Inheritance Cycle . Er is voor ieder wat
+        wils. Leuk voor jezelf, of om cadeau te
+        geven!</Description>
+        <Url>
+        http://www.bolCom.com/nl/l/engelse-boeken/tot-20procent-korting-op-de-mooiste-boxsets/N/4288472965%2B8292/sort/bestverkocht_41/huidigeWeergave/tegels/index.html</Url>
+        <UrlText>Klik hier voor alle boxsets in deze
+        actie</UrlText>
+      </Promotion>
+    </Promotions>
+  </Product>
+</ProductResponse>

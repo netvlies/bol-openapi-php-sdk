@@ -1,0 +1,564 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<SearchResultsResponse xmlns="http://openapi.bol.com/openapi-3.0.0">
+  <SessionId>0DD6ACF0-780A-4F05-84A7-076F5C689BC2</SessionId>
+  <OriginalRequest>
+    <Category>
+      <Id>3133</Id>
+      <Name>Dvd</Name>
+    </Category>
+  </OriginalRequest>
+  <TotalResultSize>113</TotalResultSize>
+  <Product>
+    <Id>1001004011586273</Id>
+    <Title>De Hobbit</Title>
+    <Type>book</Type>
+    <Publisher>Boekerij</Publisher>
+    <ShortDescription>Op een dag komen er zomaar dertien dwergen op
+    bezoek bij meneer Bilbo Balings, vergezeld door de beroemde
+    tovenaar Gandalf. Ze komen een feestje vieren in
+    z&#195;&#173;jn hobbithol; een afscheidsfeestje welteverstaan.
+    De volgende dag gaat de groep op reis om in het oude Moria een
+    schat te zoeken. Tot zijn grote schrik stelt Gandalf voor dat
+    Bilbo meegaat als het veertiende lid van de expeditie. Voor hij
+    het weet, is hij op avontuur en komt hij in aanraking met
+    trollen, reusachtige wolven, spinnen, aardmannen en niet te
+    vergeten de oude draak Smaug. Zo wordt Bilbo de meest
+    wereldwijze hobbit ooit. &lt;br/ &gt;&lt;br/
+    &gt;</ShortDescription>
+    <LongDescription>Op een dag komen er zomaar dertien dwergen op
+    bezoek bij meneer Bilbo Balings, vergezeld door de beroemde
+    tovenaar Gandalf. Ze komen een feestje vieren in
+    z&#195;&#173;jn hobbithol; een afscheidsfeestje welteverstaan.
+    De volgende dag gaat de groep op reis om in het oude Moria een
+    schat te zoeken. Tot zijn grote schrik stelt Gandalf voor dat
+    Bilbo meegaat als het veertiende lid van de expeditie. Voor hij
+    het weet, is hij op avontuur en komt hij in aanraking met
+    trollen, reusachtige wolven, spinnen, aardmannen en niet te
+    vergeten de oude draak Smaug. Zo wordt Bilbo de meest
+    wereldwijze hobbit ooit. &lt;br/ &gt;&lt;br/
+    &gt;</LongDescription>
+    <ReleaseDate>2011-07-27+02:00</ReleaseDate>
+    <Ean>9789022561942</Ean>
+    <Rating>5</Rating>
+    <BindingCode>ING</BindingCode>
+    <BindingDescription>Paperback</BindingDescription>
+    <LanguageCode>nl</LanguageCode>
+    <LanguageDescription>Nederlands</LanguageDescription>
+    <PageCount>253</PageCount>
+    <Offers>
+      <Offer>
+        <Id>1001004011586273</Id>
+        <State>Nieuw</State>
+        <Price>18.95</Price>
+        <AvailabilityCode>172</AvailabilityCode>
+        <AvailabilityDescription>Vandaag voor 17.00 uur besteld,
+        morgen in huis.</AvailabilityDescription>
+        <Seller>
+          <Id>0</Id>
+          <DisplayName>bolCom.com</DisplayName>
+          <Url>www.bolCom.com</Url>
+        </Seller>
+      </Offer>
+      <OfferTotals>
+        <Bol.com>1</Bol.com>
+        <SecondHand>0</SecondHand>
+        <Plaza>0</Plaza>
+      </OfferTotals>
+    </Offers>
+    <Urls>
+      <Main>
+      http://www.bolCom.com/nl/p/nederlandse-boeken/de-hobbit/1001004011586273/index.html</Main>
+    </Urls>
+    <Authors>
+      <Author>
+        <Id>53578</Id>
+        <Name>J.R.R. Tolkien</Name>
+      </Author>
+    </Authors>
+    <Images>
+      <ExtraSmall>
+      http://s-s-bolCom.com/imgbase0/imagebase/mini/FC/3/7/2/6/1001004011586273.jpg</ExtraSmall>
+      <Small>
+      http://s-s-bolCom.com/imgbase0/imagebase/tout/FC/3/7/2/6/1001004011586273.jpg</Small>
+      <Medium>
+      http://s-s-bolCom.com/imgbase0/imagebase/thumb/FC/3/7/2/6/1001004011586273.jpg</Medium>
+      <Large>
+      http://s-s-bolCom.com/imgbase0/imagebase/regular/FC/3/7/2/6/1001004011586273.jpg</Large>
+      <ExtraLarge>
+      http://s-s-bolCom.com/imgbase0/imagebase/large/FC/3/7/2/6/1001004011586273.jpg</ExtraLarge>
+    </Images>
+  </Product>
+  <Product>
+    <Id>1001004011225438</Id>
+    <Title>In de ban van de ring 3 delen</Title>
+    <Type>book</Type>
+    <Publisher>Boekerij</Publisher>
+    <ShortDescription>Drie Ringen voor de elfenkoningen op
+    aard,&lt;br/ &gt;Zeven voor de dwergvorsten in hun zalen
+    schoon,&lt;br/ &gt;Negen voor de mensen, die de dood niet
+    spaart,&lt;br/ &gt;Een voor de Zwarte Heerser op zijn zwarte
+    troon&lt;br/ &gt;In Mordor, waar de schimmen zijn.&lt;br/
+    &gt;Een ring om allen te regeren,&lt;br/ &gt;Een ring om hen te
+    vinden,&lt;br/ &gt;Een Ring die hen brengen zal&lt;br/ &gt;en
+    in duisternis binden,&lt;br/ &gt;In Mordor, waar de schimmen
+    zijn. &lt;br/ &gt;&lt;br/ &gt;Het eerste deel van deze
+    magistrale trilogie, die volgens velen de grondslag heeft
+    gevormd voor de moderne fantastische literatuur, zag in 1954
+    het licht. In deze uitgave zijn alledrie de delen verenigd.
+    &lt;br/ &gt;&lt;br/ &gt; &lt;br/ &gt;</ShortDescription>
+    <LongDescription>Drie Ringen voor de elfenkoningen op
+    aard,&lt;br/ &gt;Zeven voor de dwergvorsten in hun zalen
+    schoon,&lt;br/ &gt;Negen voor de mensen, die de dood niet
+    spaart,&lt;br/ &gt;Een voor de Zwarte Heerser op zijn zwarte
+    troon&lt;br/ &gt;In Mordor, waar de schimmen zijn.&lt;br/
+    &gt;Een ring om allen te regeren,&lt;br/ &gt;Een ring om hen te
+    vinden,&lt;br/ &gt;Een Ring die hen brengen zal&lt;br/ &gt;en
+    in duisternis binden,&lt;br/ &gt;In Mordor, waar de schimmen
+    zijn. &lt;br/ &gt;&lt;br/ &gt;Het eerste deel van deze
+    magistrale trilogie, die volgens velen de grondslag heeft
+    gevormd voor de moderne fantastische literatuur, zag in 1954
+    het licht. In deze uitgave zijn alledrie de delen verenigd.
+    &lt;br/ &gt;&lt;br/ &gt; &lt;br/ &gt;</LongDescription>
+    <ReleaseDate>2011-03-15+01:00</ReleaseDate>
+    <Ean>9789022560464</Ean>
+    <Rating>5</Rating>
+    <BindingCode>GEB</BindingCode>
+    <BindingDescription>Hardcover</BindingDescription>
+    <LanguageCode>nl</LanguageCode>
+    <LanguageDescription>Nederlands</LanguageDescription>
+    <Edition>10</Edition>
+    <PageCount>1248</PageCount>
+    <Offers>
+      <Offer>
+        <Id>1001004011225438</Id>
+        <State>Nieuw</State>
+        <Price>25.0</Price>
+        <AvailabilityCode>172</AvailabilityCode>
+        <AvailabilityDescription>Vandaag voor 17.00 uur besteld,
+        morgen in huis.</AvailabilityDescription>
+        <Seller>
+          <Id>0</Id>
+          <DisplayName>bolCom.com</DisplayName>
+          <Url>www.bolCom.com</Url>
+        </Seller>
+      </Offer>
+      <Offer>
+        <Id>1001024020683778</Id>
+        <State>Goed</State>
+        <Price>18.95</Price>
+        <AvailabilityCode>222</AvailabilityCode>
+        <AvailabilityDescription>1-8
+        werkdagen</AvailabilityDescription>
+        <Comment>Editie 1976, 3x pocket, 1445 pagina's.
+ Gebruikt
+        maar in prima conditie.
+ Lichte sporen van
+        gebruik.</Comment>
+        <SecondHand>true</SecondHand>
+        <Seller>
+          <Id>315342</Id>
+          <DisplayName>Tempus fugit</DisplayName>
+          <NumberOfReviews>133</NumberOfReviews>
+          <OverallRating>45</OverallRating>
+        </Seller>
+      </Offer>
+      <OfferTotals>
+        <Bol.com>1</Bol.com>
+        <SecondHand>2</SecondHand>
+        <Plaza>0</Plaza>
+      </OfferTotals>
+    </Offers>
+    <Urls>
+      <Main>
+      http://www.bolCom.com/nl/p/nederlandse-boeken/in-de-ban-van-de-ring-3-delen/1001004011225438/index.html</Main>
+    </Urls>
+    <Authors>
+      <Author>
+        <Id>53578</Id>
+        <Name>J.R.R. Tolkien</Name>
+      </Author>
+    </Authors>
+    <Images>
+      <ExtraSmall>
+      http://s-s-bolCom.com/imgbase0/imagebase/mini/FC/8/3/4/5/1001004011225438.jpg</ExtraSmall>
+      <Small>
+      http://s-s-bolCom.com/imgbase0/imagebase/tout/FC/8/3/4/5/1001004011225438.jpg</Small>
+      <Medium>
+      http://s-s-bolCom.com/imgbase0/imagebase/thumb/FC/8/3/4/5/1001004011225438.jpg</Medium>
+      <Large>
+      http://s-s-bolCom.com/imgbase0/imagebase/regular/FC/8/3/4/5/1001004011225438.jpg</Large>
+      <ExtraLarge>
+      http://s-s-bolCom.com/imgbase0/imagebase/large/FC/8/3/4/5/1001004011225438.jpg</ExtraLarge>
+    </Images>
+  </Product>
+  <Product>
+    <Id>1001004000772651</Id>
+    <Title>The Lord of the Rings - Box Set</Title>
+    <Type>book</Type>
+    <Publisher>HarperCollins Publishers</Publisher>
+    <ShortDescription>Three-volume paperback boxed set of J.R.R.
+    Tolkien's classic masterpiece, packaged in the classic black
+    covers designed by Tolkien himself. Sauron, the Dark Lord, has
+    gathered to him all the Rings of Power -- the means by which he
+    intends to rule Middle-earth. All he lacks in his plans for
+    dominion is the One Ring -- the ring that rules them all --
+    which has fallen into the hands of the hobbit, Bilbo Baggins.
+    In a sleepy village in the Shire, young Frodo Baggins finds
+    himself faced with an imm...</ShortDescription>
+    <LongDescription>Three-volume paperback boxed set of J.R.R.
+    Tolkien's classic masterpiece, packaged in the classic black
+    covers designed by Tolkien himself. Sauron, the Dark Lord, has
+    gathered to him all the Rings of Power -- the means by which he
+    intends to rule Middle-earth. All he lacks in his plans for
+    dominion is the One Ring -- the ring that rules them all --
+    which has fallen into the hands of the hobbit, Bilbo Baggins.
+    In a sleepy village in the Shire, young Frodo Baggins finds
+    himself faced with an immense task, as his elderly cousin Bilbo
+    entrusts the Ring to his care. Frodo must leave his home and
+    make a perilous journey across Middle-earth to the Cracks of
+    Doom, there to destroy the Ring and foil the Dark Lord in his
+    evil purpose. Since it was first published in 1954, 'The Lord
+    of the Rings' has been a book people have treasured. Steeped in
+    unrivalled magic and otherworldliness, its sweeping fantasy has
+    touched the hearts of young and old alike.</LongDescription>
+    <ReleaseDate>1991-11-27+01:00</ReleaseDate>
+    <Ean>9780261102385</Ean>
+    <Rating>4</Rating>
+    <BindingCode>1101</BindingCode>
+    <BindingDescription>Paperback</BindingDescription>
+    <LanguageCode>en</LanguageCode>
+    <LanguageDescription>Engels</LanguageDescription>
+    <PageCount>1664</PageCount>
+    <Offers>
+      <Offer>
+        <Id>1001004000772651</Id>
+        <State>Nieuw</State>
+        <Price>25.99</Price>
+        <ListPrice>28.99</ListPrice>
+        <AvailabilityCode>174</AvailabilityCode>
+        <AvailabilityDescription>3-4
+        werkdagen</AvailabilityDescription>
+        <Seller>
+          <Id>0</Id>
+          <DisplayName>bolCom.com</DisplayName>
+          <Url>www.bolCom.com</Url>
+        </Seller>
+      </Offer>
+      <Offer>
+        <Id>1001024020635730</Id>
+        <State>Als nieuw</State>
+        <Price>24.5</Price>
+        <AvailabilityCode>222</AvailabilityCode>
+        <AvailabilityDescription>1-8
+        werkdagen</AvailabilityDescription>
+        <SecondHand>true</SecondHand>
+        <Seller>
+          <Id>269079</Id>
+          <DisplayName>Lies boeken</DisplayName>
+          <NumberOfReviews>242</NumberOfReviews>
+          <OverallRating>40</OverallRating>
+        </Seller>
+      </Offer>
+      <OfferTotals>
+        <Bol.com>1</Bol.com>
+        <SecondHand>1</SecondHand>
+        <Plaza>0</Plaza>
+      </OfferTotals>
+    </Offers>
+    <Urls>
+      <Main>
+      http://www.bolCom.com/nl/p/engelse-boeken/the-lord-of-the-rings-box-set/1001004000772651/index.html</Main>
+    </Urls>
+    <Authors>
+      <Author>
+        <Id>541184</Id>
+        <Name>J.R.R. Tolkien</Name>
+      </Author>
+      <Author>
+        <Id>232297</Id>
+        <Name>J. R. R. Tolkien</Name>
+      </Author>
+    </Authors>
+    <Images>
+      <ExtraSmall>
+      http://s-s-bolCom.com/imgbase0/imagebase/mini/FC/1/5/6/2/1001004000772651.jpg</ExtraSmall>
+      <Small>
+      http://s-s-bolCom.com/imgbase0/imagebase/tout/FC/1/5/6/2/1001004000772651.jpg</Small>
+      <Medium>
+      http://s-s-bolCom.com/imgbase0/imagebase/thumb/FC/1/5/6/2/1001004000772651.jpg</Medium>
+      <Large>
+      http://s-s-bolCom.com/imgbase0/imagebase/regular/FC/1/5/6/2/1001004000772651.jpg</Large>
+      <ExtraLarge>
+      http://s-s-bolCom.com/imgbase0/imagebase/large/FC/1/5/6/2/1001004000772651.jpg</ExtraLarge>
+    </Images>
+  </Product>
+  <Product>
+    <Id>1001004006423732</Id>
+    <Title>De Hobbit</Title>
+    <Subtitle>voorgelezen door Jeroen Willems</Subtitle>
+    <Type>book</Type>
+    <Publisher>Boekerij - Mynx</Publisher>
+    <ShortDescription>8CD luisterboek J.R.R. TolkienDe hobbit&lt;br
+    /&gt; &lt;br /&gt; voorgelezen doorJan Meng</ShortDescription>
+    <LongDescription>8CD luisterboek J.R.R. TolkienDe hobbit&lt;br
+    /&gt; &lt;br /&gt; voorgelezen doorJan Meng</LongDescription>
+    <ReleaseDate>2009-05-28+02:00</ReleaseDate>
+    <Ean>9789052860015</Ean>
+    <Rating>4</Rating>
+    <BindingCode>ABD</BindingCode>
+    <BindingDescription>Audio Boek CD</BindingDescription>
+    <LanguageCode>nl</LanguageCode>
+    <LanguageDescription>Nederlands</LanguageDescription>
+    <Edition>1</Edition>
+    <PageCount>1</PageCount>
+    <Offers>
+      <Offer>
+        <Id>1001004006423732</Id>
+        <State>Nieuw</State>
+        <Price>22.95</Price>
+        <AvailabilityCode>172</AvailabilityCode>
+        <AvailabilityDescription>Vandaag voor 17.00 uur besteld,
+        morgen in huis.</AvailabilityDescription>
+        <Seller>
+          <Id>0</Id>
+          <DisplayName>bolCom.com</DisplayName>
+          <Url>www.bolCom.com</Url>
+        </Seller>
+      </Offer>
+      <OfferTotals>
+        <Bol.com>1</Bol.com>
+        <SecondHand>0</SecondHand>
+        <Plaza>0</Plaza>
+      </OfferTotals>
+    </Offers>
+    <Urls>
+      <Main>
+      http://www.bolCom.com/nl/p/nederlandse-boeken/de-hobbit/1001004006423732/index.html</Main>
+    </Urls>
+    <Authors>
+      <Author>
+        <Id>53578</Id>
+        <Name>J.R.R. Tolkien</Name>
+      </Author>
+    </Authors>
+    <Images>
+      <ExtraSmall>
+      http://s-s-bolCom.com/imgbase0/imagebase/mini/FC/2/3/7/3/1001004006423732.jpg</ExtraSmall>
+      <Small>
+      http://s-s-bolCom.com/imgbase0/imagebase/tout/FC/2/3/7/3/1001004006423732.jpg</Small>
+      <Medium>
+      http://s-s-bolCom.com/imgbase0/imagebase/thumb/FC/2/3/7/3/1001004006423732.jpg</Medium>
+      <Large>
+      http://s-s-bolCom.com/imgbase0/imagebase/regular/FC/2/3/7/3/1001004006423732.jpg</Large>
+      <ExtraLarge>
+      http://s-s-bolCom.com/imgbase0/imagebase/large/FC/2/3/7/3/1001004006423732.jpg</ExtraLarge>
+    </Images>
+  </Product>
+  <Product>
+    <Id>1001004005814553</Id>
+    <Title>The Hobbit</Title>
+    <Type>book</Type>
+    <Publisher>HarperCollins Publishers</Publisher>
+    <ShortDescription>The first ever illustrated paperback of the
+    critically acclaimed and beloved children's classic, featuring
+    26 colour paintings and over 30 pencil drawings by Alan Lee.
+    Bilbo Baggins enjoys a quiet and contented life, with no desire
+    to travel far from the comforts of home; then one day the
+    wizard Gandalf and a band of dwarves arrive unexpectedly and
+    enlist his services -- as a burglar -- on a dangerous
+    expedition to raid the treasure-hoard of Smaug the dragon.
+    Bilbo's life is never to be the sam...</ShortDescription>
+    <LongDescription>The first ever illustrated paperback of the
+    critically acclaimed and beloved children's classic, featuring
+    26 colour paintings and over 30 pencil drawings by Alan Lee.
+    Bilbo Baggins enjoys a quiet and contented life, with no desire
+    to travel far from the comforts of home; then one day the
+    wizard Gandalf and a band of dwarves arrive unexpectedly and
+    enlist his services -- as a burglar -- on a dangerous
+    expedition to raid the treasure-hoard of Smaug the dragon.
+    Bilbo's life is never to be the same again. The Hobbit became
+    an instant success when it was first published in 1937, and
+    more than 60 years later Tolkien's epic tale of elves, dwarves,
+    trolls, goblins, myth, magic and adventure, with its reluctant
+    hero Bilbo Baggins, has lost none of its appeal. This classic
+    edition is now available in a smart new livery, and is
+    illustrated by Alan Lee throughout to complement the new
+    paperback of The Children of Hurin.</LongDescription>
+    <ReleaseDate>2009-02-28+01:00</ReleaseDate>
+    <Ean>9780007270613</Ean>
+    <BindingCode>1101</BindingCode>
+    <BindingDescription>Paperback</BindingDescription>
+    <LanguageCode>en</LanguageCode>
+    <LanguageDescription>Engels</LanguageDescription>
+    <PageCount>400</PageCount>
+    <Offers>
+      <Offer>
+        <Id>1001004005814553</Id>
+        <State>Nieuw</State>
+        <Price>12.99</Price>
+        <ListPrice>13.99</ListPrice>
+        <AvailabilityCode>174</AvailabilityCode>
+        <AvailabilityDescription>3-4
+        werkdagen</AvailabilityDescription>
+        <Seller>
+          <Id>0</Id>
+          <DisplayName>bolCom.com</DisplayName>
+          <Url>www.bolCom.com</Url>
+        </Seller>
+      </Offer>
+      <OfferTotals>
+        <Bol.com>1</Bol.com>
+        <SecondHand>0</SecondHand>
+        <Plaza>0</Plaza>
+      </OfferTotals>
+    </Offers>
+    <Urls>
+      <Main>
+      http://www.bolCom.com/nl/p/engelse-boeken/the-hobbit/1001004005814553/index.html</Main>
+    </Urls>
+    <Authors>
+      <Author>
+        <Id>541184</Id>
+        <Name>J.R.R. Tolkien</Name>
+      </Author>
+    </Authors>
+    <Images>
+      <ExtraSmall>
+      http://s-s-bolCom.com/imgbase0/imagebase/mini/FC/3/5/5/4/1001004005814553.jpg</ExtraSmall>
+      <Small>
+      http://s-s-bolCom.com/imgbase0/imagebase/tout/FC/3/5/5/4/1001004005814553.jpg</Small>
+      <Medium>
+      http://s-s-bolCom.com/imgbase0/imagebase/thumb/FC/3/5/5/4/1001004005814553.jpg</Medium>
+      <Large>
+      http://s-s-bolCom.com/imgbase0/imagebase/regular/FC/3/5/5/4/1001004005814553.jpg</Large>
+      <ExtraLarge>
+      http://s-s-bolCom.com/imgbase0/imagebase/large/FC/3/5/5/4/1001004005814553.jpg</ExtraLarge>
+    </Images>
+  </Product>
+  <Category>
+    <Id>8299</Id>
+    <Name>Boeken</Name>
+    <ProductCount>111</ProductCount>
+  </Category>
+  <Category>
+    <Id>3132</Id>
+    <Name>Muziek</Name>
+    <ProductCount>3</ProductCount>
+  </Category>
+  <Category>
+    <Id>3133</Id>
+    <Name>Dvd</Name>
+    <ProductCount>2</ProductCount>
+  </Category>
+  <RefinementGroup>
+    <Id>4852</Id>
+    <Name>prijs</Name>
+    <Refinement>
+      <Id>7143</Id>
+      <Name>Tot € 10</Name>
+      <ProductCount>11</ProductCount>
+    </Refinement>
+    <Refinement>
+      <Id>4854</Id>
+      <Name>Tot € 20</Name>
+      <ProductCount>71</ProductCount>
+    </Refinement>
+    <Refinement>
+      <Id>4855</Id>
+      <Name>Tot € 30</Name>
+      <ProductCount>102</ProductCount>
+    </Refinement>
+    <Refinement>
+      <Id>4856</Id>
+      <Name>Tot € 40</Name>
+      <ProductCount>106</ProductCount>
+    </Refinement>
+    <Refinement>
+      <Id>4857</Id>
+      <Name>Tot € 50</Name>
+      <ProductCount>108</ProductCount>
+    </Refinement>
+    <Refinement>
+      <Id>4858</Id>
+      <Name>Tot € 100</Name>
+      <ProductCount>113</ProductCount>
+    </Refinement>
+    <Refinement>
+      <Id>5014</Id>
+      <Name>Tot € 200</Name>
+      <ProductCount>113</ProductCount>
+    </Refinement>
+    <Refinement>
+      <Id>4860</Id>
+      <Name>Tot € 300</Name>
+      <ProductCount>113</ProductCount>
+    </Refinement>
+    <Refinement>
+      <Id>4861</Id>
+      <Name>Tot € 400</Name>
+      <ProductCount>113</ProductCount>
+    </Refinement>
+    <Refinement>
+      <Id>4862</Id>
+      <Name>Tot € 500</Name>
+      <ProductCount>113</ProductCount>
+    </Refinement>
+    <Refinement>
+      <Id>4863</Id>
+      <Name>Tot € 750</Name>
+      <ProductCount>113</ProductCount>
+    </Refinement>
+    <Refinement>
+      <Id>4864</Id>
+      <Name>Tot € 1000</Name>
+      <ProductCount>113</ProductCount>
+    </Refinement>
+    <Refinement>
+      <Id>4865</Id>
+      <Name>Tot € 1500</Name>
+      <ProductCount>113</ProductCount>
+    </Refinement>
+    <Refinement>
+      <Id>4866</Id>
+      <Name>Tot € 2000</Name>
+      <ProductCount>113</ProductCount>
+    </Refinement>
+    <Refinement>
+      <Id>7346</Id>
+      <Name>Tot € 2500</Name>
+      <ProductCount>113</ProductCount>
+    </Refinement>
+  </RefinementGroup>
+  <RefinementGroup>
+    <Id>1317</Id>
+    <Name>onderwerp</Name>
+    <Refinement>
+      <Id>4289376298</Id>
+      <Name>Fantasy</Name>
+      <ProductCount>1</ProductCount>
+    </Refinement>
+  </RefinementGroup>
+  <RefinementGroup>
+    <Id>1424</Id>
+    <Name>verzameledities</Name>
+    <Refinement>
+      <Id>7260</Id>
+      <Name>Eerste druk</Name>
+      <ProductCount>5</ProductCount>
+    </Refinement>
+    <Refinement>
+      <Id>7262</Id>
+      <Name>Speciale uitgave</Name>
+      <ProductCount>6</ProductCount>
+    </Refinement>
+  </RefinementGroup>
+  <RefinementGroup>
+    <Id>7287</Id>
+    <Name>aanraders</Name>
+    <Refinement>
+      <Id>7289</Id>
+      <Name>Nieuw verschenen</Name>
+      <ProductCount>1</ProductCount>
+    </Refinement>
+  </RefinementGroup>
+</SearchResultsResponse>
