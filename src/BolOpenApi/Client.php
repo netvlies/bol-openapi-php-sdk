@@ -53,6 +53,13 @@ class Client
         return $this->sessionId;
     }
 
+    public function ping()
+    {
+        $path = '/openapi/services/rest/catalog/v3/ping';
+        $response = $this->call($path);
+        return $response;
+    }
+
     /**
      * @param $term
      * @param array|null $options
