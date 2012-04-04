@@ -21,7 +21,7 @@ class Client
 {
     private $browser;
     private $accessKey;
-   	private $secretAccessKey;
+    private $secretAccessKey;
     private $sessionId;
 
     /**
@@ -53,9 +53,13 @@ class Client
         return $this->sessionId;
     }
 
+    /**
+     * Ping service and return api response
+     * @return \Buzz\Message\Response
+     */
     public function ping()
     {
-        $path = '/openapi/services/rest/catalog/v3/ping';
+        $path = '/openapi/services/rest/utils/v3/ping';
         $response = $this->call($path);
         return $response;
     }
@@ -84,7 +88,7 @@ class Client
         $uri = $path . '?' . http_build_query($query_parameters);
 
         $obj = new ResponseFactory();
-        return $obj->createSearchResultsResponse($this->call($uri));
+        return $obj->createSearchResultsResponse($this->getXmlElement($this->call($uri)));
     }
 
     /**
@@ -110,7 +114,7 @@ class Client
         $uri = $path . '?' . http_build_query($options);
 
         $obj = new ResponseFactory();
-        return $obj->createListResultsResponse($this->call($uri));
+        return $obj->createListResultsResponse($this->getXmlElement($this->call($uri)));
     }
 
     /**
@@ -127,14 +131,14 @@ class Client
         $uri = '/openapi/services/rest/catalog/v3/products/' . $productId;
 
         $obj = new ResponseFactory();
-        return $obj->createProductResponse($this->call($uri));
+        return $obj->createProductResponse($this->getXmlElement($this->call($uri)));
     }
 
     /**
      * Prepare headers, compose url and make a call
      * @param $url
-     * @return \SimpleXMLElement
-     * @throws \Exception
+     * @return \Buzz\Message\Response
+     * @throws \BolOpenApi\Exception
      */
     protected function call($url)
     {
@@ -159,6 +163,19 @@ class Client
         if ($response->getStatusCode() === 503) {
             throw new BolException('Service Temporarily Unavailable', 503);
         }
+
+        return $response;
+    }
+
+    /**
+     * Convert response into SimpleXmlElement and throw an exception if parsing is impossible
+     * Also throws an exception if response status code is not 200
+     * @param $response
+     * @return \SimpleXMLElement
+     * @throws Exception
+     */
+    protected function getXmlElement($response)
+    {
         try{
             $xmlElement = new \SimpleXMLElement($response->getContent());
         } catch (\Exception $e) {
@@ -166,13 +183,6 @@ class Client
         }
         if ($response->getStatusCode() !== 200) {
             throw new BolException($xmlElement->Status . ': ' . $xmlElement->Message, $response->getStatusCode());
-        }
-        if (!in_array($xmlElement->getName(), array(
-            'ListResultResponse',
-            'SearchResultsResponse',
-            'ProductResponse'
-        ))) {
-            throw new BolException('Invalid Xml result');
         }
 
         return $xmlElement;

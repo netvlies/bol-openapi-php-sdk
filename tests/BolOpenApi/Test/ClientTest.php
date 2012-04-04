@@ -29,10 +29,12 @@ class ClientTest extends \PHPUnit_Framework_TestCase
 
     public function testPing()
     {
-        // @todo test ping
+        $response = $this->bolApi->ping();
+        $this->assertEquals($response->getStatusCode(), 200);
     }
 
     /**
+     * @depends testPing
      * @expectedException           InvalidArgumentException
      * @expectedExceptionMessage    integer overflow
      */
@@ -42,6 +44,7 @@ class ClientTest extends \PHPUnit_Framework_TestCase
     }
 
     /**
+     * @depends testPing
      * @expectedException           BolOpenApi\Exception
      * @expectedExceptionMessage    InvalidAccessKeyId
      * @expectedExceptionCode       403
@@ -53,6 +56,7 @@ class ClientTest extends \PHPUnit_Framework_TestCase
     }
 
     /**
+     * @depends testPing
      * @expectedException           BolOpenApi\Exception
      * @expectedExceptionMessage    UnknownProduct
      * @expectedExceptionCode       404
@@ -62,6 +66,9 @@ class ClientTest extends \PHPUnit_Framework_TestCase
         $this->bolApi->products('1');
     }
 
+    /**
+     * @depends testPing
+     */
     public function testValidProduct()
     {
         $productResponse = $this->bolApi->products('1001004011586273');
@@ -69,6 +76,7 @@ class ClientTest extends \PHPUnit_Framework_TestCase
     }
 
     /**
+     * @depends testPing
      * @expectedException           BolOpenApi\Exception
      * @expectedExceptionMessage    SearchResultsEmpty
      * @expectedExceptionCode       404
@@ -78,6 +86,9 @@ class ClientTest extends \PHPUnit_Framework_TestCase
         $this->bolApi->searchResults('nsjkabfisdaufbsdiuabfsdi8fhsiduahf98sdayfisdhafhsdail');
     }
 
+    /**
+     * @depends testPing
+     */
     public function testValidSearchResults()
     {
      $searchResults = $this->bolApi->searchResults('php');
@@ -85,6 +96,7 @@ class ClientTest extends \PHPUnit_Framework_TestCase
     }
 
     /**
+     * @depends testPing
      * @expectedException           BolOpenApi\Exception
      * @expectedExceptionMessage    InvalidRequest
      * @expectedExceptionCode       400
@@ -95,6 +107,7 @@ class ClientTest extends \PHPUnit_Framework_TestCase
     }
 
     /**
+     * @depends testPing
      * @expectedException           BolOpenApi\Exception
      * @expectedExceptionMessage    Error parsing the xml as SimpleXMLElement
      */
@@ -103,6 +116,9 @@ class ClientTest extends \PHPUnit_Framework_TestCase
         $this->bolApi->listResults('', '');
     }
 
+    /**
+     * @depends testPing
+     */
     public function testValidListResults()
     {
         $listResults = $this->bolApi->listResults('toplist_default', '10462');
