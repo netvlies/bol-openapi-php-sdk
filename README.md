@@ -32,7 +32,14 @@ The searchresults operation returns product information by supplying keywords or
     // ..
     $term = 'PHP';
     $options = array(
-        // Set your options here
+        'categoryIdAndRefinements'  => null,
+        'offset'                    => 0,
+        'nrProducts'                => 10,
+        'sortingMethod'             => SortingMethod::PRICE,
+        'sortingAscending'          => true,
+        'includeProducts'           => true,
+        'includeCategories'         => true,
+        'includeRefinements'        => true
     );
     $searchResult = $apiClient->searchResults($term, $options);
     // ..
@@ -43,10 +50,16 @@ The listresults operation returns various product lists, based on list type and 
 For available list types see the [documentation](http://developers.bol.com/documentatie/handleiding/).
 
     // ..
-    $type = 'toplist_default';
+    $type = ProductListType::TOPLIST_DEFAULT;
     $categoryIdAndRefinements = '87';
     $options = array(
-        // Set your options here
+        'offset'                => null,
+        'nrProducts'            => 10,
+        'sortingMethod'         => SortingMethod::TITLE,
+        'sortingAscending'      => true,
+        'includeProducts'       => false,
+        'includeCategories'     => true,
+        'includeRefinements'    => true
     );
     $listResult = $apiClient->listResults($type, $categoryIdAndRefinements, $options);
     // ..
@@ -58,6 +71,9 @@ The products operation gets detailed information for products.
     $productId = '1002004011800815';
     $productResponse = $apiClient->products($productId);
     // ...
+
+## Enumerations
+For a list of the possible enumerations options (for example sorting methods) take a look at the classes within the *Enum* namespace.
 
 ## Documentation
 Further documentation about the API can be found at the [Bol.com developer center](http://developers.bol.com/documentatie/handleiding/).
