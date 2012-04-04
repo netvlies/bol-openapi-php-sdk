@@ -38,6 +38,7 @@ class ModelFactory
     public function createProduct(\SimpleXMLElement $xmlElement)
     {
         //@todo promotions
+        //@todo refactor switch
         switch($xmlElement->Type) {
             case 'book':
                 $product = new Book();
