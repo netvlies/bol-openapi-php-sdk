@@ -17,6 +17,7 @@ use BolOpenApi\Model\Dvd;
 use BolOpenApi\Model\ElectronicDevice;
 use BolOpenApi\Model\Entity;
 use BolOpenApi\Model\Images;
+use BolOpenApi\Model\Game;
 use BolOpenApi\Model\Music;
 use BolOpenApi\Model\Offer;
 use BolOpenApi\Model\Offers;
