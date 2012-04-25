@@ -73,7 +73,7 @@ class Client
     {
         $path = '/openapi/services/rest/catalog/v3/searchresults';
         $defaulOptions = array(
-            'categoryIdAndRefinements'  => null,
+            'categoryId'  => null,
             'offset'                    => 0,
             'nrProducts'                => 10,
             'sortingMethod'             => 'price',
