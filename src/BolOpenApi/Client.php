@@ -76,7 +76,7 @@ class Client
             'categoryId'  => null,
             'offset'                    => 0,
             'nrProducts'                => 10,
-            'sortingMethod'             => 'price',
+            'sortingMethod'             => null,
             'sortingAscending'          => true,
             'includeProducts'           => true,
             'includeCategories'         => true,
