@@ -6,8 +6,6 @@ The [Bol.com Open Api](http://developers.bol.com/documentatie/handleiding/) is a
 
 You need to have a developer key to use this API. You can get one by [registering at the Bol.com developer center](https://developers.bol.com/inloggen/?action=register).
 
-**NOTE** this bundle is in development and cannot be used in an production enviroment.
-
 ## License
 This library is released under the MIT license. See the complete license in the LICENSE file.
 
