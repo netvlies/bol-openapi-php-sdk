@@ -198,6 +198,11 @@ class ModelFactory
     public function createOffers(\SimpleXMLElement $xmlElement)
     {
         $offers = new Offers();
+
+        if (!isset($xmlElement) || $xmlElement->count() <= 0) {
+            return $offers;
+        }
+
         foreach ($xmlElement->children() as $child) {
             if ($child->getName() == 'Offer') {
                 $offers->addOffer($this->createOffer($child));
